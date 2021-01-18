@@ -1,0 +1,3 @@
+include ':chajinaapp'
+include ':app'
+rootProject.name = "Chajianhua_ASM"
