@@ -1,0 +1,2 @@
+# Chajianhua_ASM
+HookASM启动未注册的Activity
